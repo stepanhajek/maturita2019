@@ -1,9 +1,10 @@
 # maturita2019
 script pro instalaci aplikaci
+uzivatel musi byt pritomen, aby mohl potvrzovat jednotlive instalace
 
 ### Instalace GITu
 ```
-sudo apt-get install git -y
+sudo apt-get install git
 ```
 
 ### Stahnuti repozitare
